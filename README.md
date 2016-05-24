@@ -1,0 +1,2 @@
+# EmberNote
+Learning Ember CLI
